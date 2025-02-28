@@ -1,0 +1,17 @@
+{
+    "name": "swarm-social-backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@upcoming/bee-js": "^0.10.0",
+        "cafe-utility": "^27.12.1"
+    },
+    "devDependencies": {
+        "@types/node": "^22.13.1"
+    },
+    "description": ""
+}
